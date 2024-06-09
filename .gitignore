@@ -58,9 +58,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Requirements
-requirements.txt
-
 # Data folder
 CE-2 MRM Data/
 
